@@ -1,4 +1,4 @@
-# Quantum_Hybrid_AdS (The Architecture Flex)
+# Quantum_Hybrid_AdS
 
 This folder bridges quantum-classical physics pipelines, proving the capability to handle complex latent space manipulations.
 
