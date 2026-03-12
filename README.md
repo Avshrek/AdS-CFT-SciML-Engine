@@ -1,6 +1,8 @@
 # AdS-CFT-SciML-Engine
 **Accelerating AdS/CFT Boundary-Value Problems via SciML.**
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1R45Y3Y1ubrf1Dc3gDDZaVLOXFPkhLb1-?usp=sharing)
+
 This engine bypasses iterative O(N^3) numerical PDE solvers using advanced Operator Learning, moving beyond static 3D snapshots to forge a continuous, mathematically rigorous pipeline driven by General Relativity.
 
 ### Directory Overview
