@@ -1,4 +1,4 @@
-# Unified_Neural_AdS (Your Proven Baseline)
+# Unified_Neural_AdS
 
 This model operates in the frequency domain, mapping 1D+Time boundaries to a 2D+Time bulk using Fourier Neural Operators (FNO). 
 
