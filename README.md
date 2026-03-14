@@ -1,5 +1,5 @@
 # AdS-CFT-SciML-Engine
-**Accelerating AdS/CFT Boundary-Value Problems via SciML.**
+**Accelerating AdS/CFT Boundary-Value Problems via SciML.** <br>
 Co-developed by Abhishek Chaturvedi and Anvay Sanil
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12nzZXFXGGYJryjT6n0VQGWy3gW1rS6Fg?usp=sharing)
